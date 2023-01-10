@@ -1,9 +1,0 @@
-# docker/
-
-.git/
-.gitignore
-.editorconfig
-.htaccess.txt
-CHANGELOG.md
-composer.json
-composer.lock
